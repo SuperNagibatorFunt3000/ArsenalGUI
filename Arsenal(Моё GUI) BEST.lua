@@ -7,6 +7,7 @@ local Tab = Window:NewTab("Aimbot")
 
 local Section = Tab:NewSection("Aimbot")
 
+
 Section:NewButton("AimBot", "Snaps aim to player heads. Featuring wall detection, team check, and mouse movement bypass.", function()
     -- Copyright https://WeAreDevs.net 2019
 -- https://wearedevs.net/exploits
